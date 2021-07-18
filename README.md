@@ -11,5 +11,3 @@ Happy DOS is based on the DOS watchface hosted here: https://github.com/sqfmi/Wa
 
 Shout out to BrainInABowl for the snippet of code that resets the step counter. Source: https://github.com/BraininaBowl/Bahn-for-Watchy
 
-I invite you to change the words WRITE, SLEEP, COFFEE and DREAM to four things that make *you* happy.
-
